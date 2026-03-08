@@ -90,6 +90,6 @@ http://localhost:8000/docs
 ## Author
 
 Nama : (Faris Alifia Rohman)
-Mata Pelajaran : Administrasi Sistem Jaringan
+Mata Pelajaran : (Administrasi Sistem Jaringan)
 Sekolah : (SMK Negeri 22 Jakarta)
 
